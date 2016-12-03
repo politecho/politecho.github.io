@@ -19,6 +19,10 @@ h1 {
   margin: 0;
 }
 
+ul {
+  padding-left: 17px;
+}
+
 .jumbotron h1 {
   font-size: 48px;
 }
